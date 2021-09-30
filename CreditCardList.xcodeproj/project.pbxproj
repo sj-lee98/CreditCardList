@@ -18,6 +18,7 @@
 		8704FC482702BD25001F97E0 /* CardListCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8704FC462702BD25001F97E0 /* CardListCell.xib */; };
 		8704FC4A2702D2EC001F97E0 /* CardDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8704FC492702D2EC001F97E0 /* CardDetailViewController.swift */; };
 		8704FC4C2702D51A001F97E0 /* money.json in Resources */ = {isa = PBXBuildFile; fileRef = 8704FC4B2702D51A001F97E0 /* money.json */; };
+		87E1463127055F32006F2865 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 87E1463027055F32006F2865 /* GoogleService-Info.plist */; };
 		F2C5B13D8490784A25E09F7B /* Pods_CreditCardList.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0E485385016051ABAD9FED89 /* Pods_CreditCardList.framework */; };
 /* End PBXBuildFile section */
 
@@ -37,6 +38,7 @@
 		8704FC462702BD25001F97E0 /* CardListCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CardListCell.xib; sourceTree = "<group>"; };
 		8704FC492702D2EC001F97E0 /* CardDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardDetailViewController.swift; sourceTree = "<group>"; };
 		8704FC4B2702D51A001F97E0 /* money.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = money.json; sourceTree = "<group>"; };
+		87E1463027055F32006F2865 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		E2895D41521E04B2B331710F /* Pods-CreditCardList.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CreditCardList.debug.xcconfig"; path = "Target Support Files/Pods-CreditCardList/Pods-CreditCardList.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -93,6 +95,7 @@
 				8704FC362702B9AD001F97E0 /* Assets.xcassets */,
 				8704FC382702B9AD001F97E0 /* LaunchScreen.storyboard */,
 				8704FC3B2702B9AD001F97E0 /* Info.plist */,
+				87E1463027055F32006F2865 /* GoogleService-Info.plist */,
 			);
 			path = CreditCardList;
 			sourceTree = "<group>";
@@ -170,6 +173,7 @@
 				8704FC4C2702D51A001F97E0 /* money.json in Resources */,
 				8704FC352702B9AD001F97E0 /* Main.storyboard in Resources */,
 				8704FC482702BD25001F97E0 /* CardListCell.xib in Resources */,
+				87E1463127055F32006F2865 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
